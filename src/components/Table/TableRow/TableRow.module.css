@@ -1,0 +1,10 @@
+.tableRow {
+}
+
+.tableRow td {
+  padding: 10px;
+}
+
+.tableRow {
+  border-bottom: 0.5px solid grey;
+}
